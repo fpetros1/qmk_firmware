@@ -34,7 +34,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 #define TAP_CODE_DELAY 5
-#define FLOW_TAP_TERM 200
+#define FLOW_TAP_TERM 50
 #define TAPPING_TERM 150
 
 #define POINTING_DEVICE_AUTO_MOUSE_ENABLE
