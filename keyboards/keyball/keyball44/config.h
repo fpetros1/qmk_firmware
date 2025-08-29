@@ -58,5 +58,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define RGB_MATRIX_SPLIT    { 30, 30 }
 #endif
 
-#define POINTING_DEVICE_HIRES_SCROLL_ENABLE 1
-#define POINTING_DEVICE_HIRES_SCROLL_EXPONENT 1
